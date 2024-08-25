@@ -1,3 +1,3 @@
 # Programming
 First git repository
-Author - Aditya Kalura
+Author - Aditya Kalura(Adi)
